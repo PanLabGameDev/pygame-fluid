@@ -1,0 +1,9 @@
+{
+    "water_running": false,
+    "grid_size": 15,
+    "fps": 60,
+    "screen_x": 1000,
+    "screen_y": 1000,
+    "brush_size": 3,
+    "debug": true
+}
